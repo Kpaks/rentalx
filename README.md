@@ -5,7 +5,7 @@ git init
 
 - Adicione o repositorio remoro 
 git remote add origin [url do github]
-
+git remote set-url origin [url] (mudar url)
 - Comitando localmente
 git add --all
 git commit -m "comment"
