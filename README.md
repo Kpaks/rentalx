@@ -15,3 +15,4 @@ git config --add https.proxy https://[user:senha]@urlempresa:porta
 
 - Commitar no github
 git push origin master
+git pull origin master
