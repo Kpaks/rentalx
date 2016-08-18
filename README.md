@@ -28,10 +28,26 @@ git pull origin master
   ------------------------------------------------------------
   Back end - Projeto Spring 
   -JDBC
-  --DATA SOURCE-Provido pelo container(jndi - acessar recursos do servidor através de um nome(container provides))
-  ---xml configured
-  ----application-context-datasource: 
-  
+  -DATA SOURCE-Provido pelo container(jndi - acessar recursos do servidor através de um nome(container provides))
+  --xml configured
+  ---application-context-datasource:  <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"> irá usar esse datasource
+                                      <property name="url" value="${db.url}"/> propert configurada
+                                      <property name="initialSize" value="10"/>		config de num. de configurações	
+	                                  	<property name="maxTotal" value="30"/>
+	---application-context-jpa: Config 
+	  --persistenceUnitManager: falar para o spring que existe uma jpa
+	  ---<property name="packagesToScan" value="com.rentalx"/> escaneia onde estão os jpas
+	  ---entityManagerFactory:ligado diretamente com a persistenceUnit
+	  ---vendorAdapter:
+	  
+	---application-context-db:  
+	
+	-JPA
+	-Persistence.xml(src/meta-inf) - Mapeamento de BD 
+	 --Especifica provider
+	                                  	
+	                                  	
+	                                  	
   ------------------------------------------------------------
   
   obs:
