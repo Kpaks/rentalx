@@ -17,6 +17,8 @@ git config --add https.proxy https://[user:senha]@urlempresa:porta
 git push origin master
 git pull origin master
 
+ ------------------------------------------------------------
+
   |CONTROLLER|
     |SPRING|
  |JPA PROVIDER| - Hibernate/eclipse link       controller
@@ -25,7 +27,7 @@ git pull origin master
      |DB|                                       jdbc
                                                  bd
                                                 
-  ------------------------------------------------------------
+ 
   Back end - Projeto Spring 
   -JDBC
   -DATA SOURCE-Provido pelo container(jndi - acessar recursos do servidor através de um nome(container provides))
