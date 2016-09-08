@@ -65,3 +65,5 @@ git pull origin master
    	-checkInController
    	
 @ResponseBody - Por default o retorno é em json   	
+-------------------------------------------------------------------
+@manytoone(fetch=fetchtype.eager) join com
