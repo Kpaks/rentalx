@@ -68,3 +68,11 @@ git pull origin master
 -------------------------------------------------------------------
 @manytoone(fetch=fetchtype.eager) join com
 e lazy
+
+
+
+
+
+Links
+--------------
+http://cs.stanford.edu/people/karpathy/advice.html
