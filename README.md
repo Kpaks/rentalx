@@ -67,3 +67,4 @@ git pull origin master
 @ResponseBody - Por default o retorno é em json   	
 -------------------------------------------------------------------
 @manytoone(fetch=fetchtype.eager) join com
+e lazy
