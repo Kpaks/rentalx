@@ -53,5 +53,15 @@ git pull origin master
   ------------------------------------------------------------
   
   obs:
-   framework de pull de informações - c3po
+   framework de pull de conexões - c3po
    Toda classe gerenciada pelo spring é uma bean
+   
+   ------------------
+   
+   FrontController(Estratégia do MVC)
+   -Gerenciar uma pilha de comandos	
+   	-authCheck
+   	-validator
+   	-checkInController
+   	
+@ResponseBody - Por default o retorno é em json   	
