@@ -76,3 +76,6 @@ e lazy
 Links
 --------------
 http://cs.stanford.edu/people/karpathy/advice.html
+https://www.crunchbase.com/app/search/companies/e9470cbb039da7987a91d923846b4abeaf705485
+https://www.crunchbase.com/app/search/funding_rounds
+https://www.crunchbase.com/organization/outfittery#/entity
