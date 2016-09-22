@@ -69,6 +69,9 @@ git pull origin master
 @manytoone(fetch=fetchtype.eager) join com
 e lazy
 
+-------------------------------------------------------------------
+
+
 
 
 
@@ -79,3 +82,5 @@ http://cs.stanford.edu/people/karpathy/advice.html
 https://www.crunchbase.com/app/search/companies/e9470cbb039da7987a91d923846b4abeaf705485
 https://www.crunchbase.com/app/search/funding_rounds
 https://www.crunchbase.com/organization/outfittery#/entity
+https://pt.coursera.org/specializations/full-stack
+https://pt.coursera.org/specializations/web-design
