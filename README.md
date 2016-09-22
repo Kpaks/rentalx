@@ -71,7 +71,9 @@ e lazy
 
 -------------------------------------------------------------------
 
-
+AngularJS
+Estrutura bem segmentada
+View-->HTML
 
 
 
@@ -84,3 +86,4 @@ https://www.crunchbase.com/app/search/funding_rounds
 https://www.crunchbase.com/organization/outfittery#/entity
 https://pt.coursera.org/specializations/full-stack
 https://pt.coursera.org/specializations/web-design
+https://www.codeschool.com/learn/html-css
