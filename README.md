@@ -78,6 +78,7 @@ View-->HTML
 bower - it just installs the right versions of the packages you need and their dependencies.
 gulp/grunt - automatizador de build de front (dependencia)
 
+JS - For in(percorrer atributos json)
 
 Links
 --------------
