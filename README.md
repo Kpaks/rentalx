@@ -89,3 +89,5 @@ https://www.crunchbase.com/organization/outfittery#/entity
 https://pt.coursera.org/specializations/full-stack
 https://pt.coursera.org/specializations/web-design
 https://www.codeschool.com/learn/html-css
+https://devdactic.com/restful-api-user-authentication-1
+http://thejackalofjavascript.com/an-end-to-end-hybrid-app/
