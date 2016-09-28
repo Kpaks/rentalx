@@ -91,3 +91,4 @@ https://pt.coursera.org/specializations/web-design
 https://www.codeschool.com/learn/html-css
 https://devdactic.com/restful-api-user-authentication-1
 http://thejackalofjavascript.com/an-end-to-end-hybrid-app/
+http://www.jslint.com/ http://jshint.com/
